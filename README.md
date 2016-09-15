@@ -9,7 +9,7 @@ Make sure you have Nodemon and Node installed, since we will be using them.
 Clone down the respository.
 
 ```javascript
-https://github.com/Binnsler/listloop-map.git
+git clone https://github.com/Binnsler/listloop-map.git
 ```
 
 Install dependencies.
